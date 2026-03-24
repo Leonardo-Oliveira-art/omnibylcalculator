@@ -2,7 +2,7 @@
 ## Espero que estejam todos bem!
 _____________________________________________________________
 # Este é meu primeiro projeto para empresas de piscinas e clientes finais!
-Meu maior companheiro para se dedicar neste pequeno sistema simples foi a OpenAI
+Meu maior companheiro para se dedicar neste pequeno sistema simples foi a OpenAI, e meu amigo Ed Piscineiro
 
 ## 🚀 Funcionalidades:
 
